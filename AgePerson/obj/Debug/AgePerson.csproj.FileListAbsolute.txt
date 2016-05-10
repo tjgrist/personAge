@@ -1,0 +1,6 @@
+C:\Users\tjgrs\projects\visualstudio\AgePerson\AgePerson\bin\Debug\AgePerson.exe.config
+C:\Users\tjgrs\projects\visualstudio\AgePerson\AgePerson\bin\Debug\AgePerson.exe
+C:\Users\tjgrs\projects\visualstudio\AgePerson\AgePerson\bin\Debug\AgePerson.pdb
+C:\Users\tjgrs\projects\visualstudio\AgePerson\AgePerson\obj\Debug\AgePerson.csprojResolveAssemblyReference.cache
+C:\Users\tjgrs\projects\visualstudio\AgePerson\AgePerson\obj\Debug\AgePerson.exe
+C:\Users\tjgrs\projects\visualstudio\AgePerson\AgePerson\obj\Debug\AgePerson.pdb
